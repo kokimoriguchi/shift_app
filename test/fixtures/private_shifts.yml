@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  staff: one
+  start: 2023-01-09 21:08:59
+  finish: 2023-01-09 21:08:59
+
+two:
+  staff: two
+  start: 2023-01-09 21:08:59
+  finish: 2023-01-09 21:08:59
