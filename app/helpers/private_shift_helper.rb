@@ -1,0 +1,2 @@
+module PrivateShiftHelper
+end
